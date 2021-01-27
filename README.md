@@ -42,6 +42,11 @@ A manually curated lists of software, publications and other resources related t
  - Zhang et al., 2012: [Improved protein hydrogen/deuterium exchange mass spectrometry platform with fully automated data processing](https://doi.org/10.1021/ac300535r).
  - Zhang et al., 2020: [Complete Extraction of Protein Dynamics Information in Hydrogen/Deuterium Exchange Mass Spectrometry Data](https://doi.org/10.1021/acs.analchem.9b05724).
 
+
+## Repositories
+
+ - HDX Symulations:
+ [Kan ZY](https://github.com/kanzy/HX-MS-Simulations), [Robert Bradshaw](https://github.com/rtb1c13/calc_hdx).
 ## Experimental aspects
 
  - Brown et al., 2017: [Bottom-up hydrogen deuterium exchange mass spectrometry: data analysis and interpretation](https://doi.org/10.1039/C7AN00662D).
