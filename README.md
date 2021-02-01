@@ -1,4 +1,4 @@
-A manually curated lists of software, publications and other resources related to the analysis of HDX-MS data.
+Manually curated lists of software, publications and other resources related to the analysis of HDX-MS data.
 
 ## Tools for analysis of the HDX-MS data
 
