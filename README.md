@@ -13,6 +13,7 @@ Manually curated lists of software, publications and other resources related to 
  - Hexicon 2: [publication](https://dx.doi.org/10.1007%2Fs13361-014-0850-y); access on request.
  - HX-Express v2: [publication](https://dx.doi.org/10.1007%2Fs13361-013-0727-5); [availability](https://www.hxms.com/HXExpress/).
  - MEMHDX: [publication](https://doi.org/10.1093/bioinformatics/btw420); [web server](http://memhdx.c3bi.pasteur.fr/).
+ - HDXanalyzer [publication](https://doi.org/10.1186/1471-2105-12-S1-S43); RPY package.
  
 ## High-resolution HDX-MS
 
