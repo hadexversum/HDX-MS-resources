@@ -1,4 +1,4 @@
-A manually curated lists of software, publications and other resources related to the analysis of HDX-MS data.
+Manually curated lists of software, publications and other resources related to the analysis of HDX-MS data.
 
 ## Tools for analysis of the HDX-MS data
 
@@ -13,6 +13,7 @@ A manually curated lists of software, publications and other resources related t
  - Hexicon 2: [publication](https://dx.doi.org/10.1007%2Fs13361-014-0850-y); access on request.
  - HX-Express v2: [publication](https://dx.doi.org/10.1007%2Fs13361-013-0727-5); [availability](https://www.hxms.com/HXExpress/).
  - MEMHDX: [publication](https://doi.org/10.1093/bioinformatics/btw420); [web server](http://memhdx.c3bi.pasteur.fr/).
+ - HDXanalyzer [publication](https://doi.org/10.1186/1471-2105-12-S1-S43); RPY package.
  
 ## High-resolution HDX-MS
 
@@ -21,7 +22,6 @@ A manually curated lists of software, publications and other resources related t
  - HDsite; [publication](https://doi.org/10.1073/pnas.1315532110).
  - PyHDX; [pre-print](https://doi.org/10.1101/2020.09.30.320887); [repository](https://github.com/Jhsmit/PyHDX); [web server](http://pyhdx.jhsmit.org/main).
  - Skinner et al., 2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); [repository](https://github.com/skinnersp/exPfact).
-
 
 ## Analysis of HDX-MS
 
@@ -34,30 +34,44 @@ A manually curated lists of software, publications and other resources related t
  - Dovischenko et al., 2008: [Prediction of Residue Status to Be Protected or Not Protected From Hy-drogen Exchange Using Amino Acid Sequence Only](https://doi.org/10.2174/1874091x00802010077).
  - Englander et al., 1997: [Hydrogen exchange: the modern legacy of Linderstrøm-Lang.](https://doi.org/10.1002/pro.5560060517).
  - Fajer et al, 2012: [Improved Sequence Resolution by Global Analysis of Overlapped Peptides in Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1007/s13361-012-0373-3).
+ - Harris et al, 2019: [Quantitative Evaluation of Native Protein Folds and Assemblies by Hydrogen Deuterium Exchange Mass Spectrometry (HDX-MS)](https://doi.org/10.1007/s13361-018-2070-3)   
  - Konermann et al., 2011: [Hydrogen exchange mass spectrometry for studying protein structure and dynamics](https://doi.org/10.1039/c0cs00113a).
+ - Mazur et al., 2017: [The Area Between Exchange Curves as a Measure of Conformational Differences in Hydrogen-Deuterium Exchange Mass Spectrometry Studies](https://doi.org/10.1007/s13361-017-1615-1).  
  - Nguyen et al., 2018: [Reference Parameters for Protein Hydrogen Exchange Rates](https://doi.org/10.1007/s13361-018-2021-z).
  - Skinner et al., 2012: [Protein hydrogen exchange: testing current models](https://doi.org/10.1002/pro.2082).
  - Skinner et al., 2012: [Protein dynamics viewed by hydrogen exchange](https://doi.org/10.1002/pro.2081).
+ - Tajoddin et al. 2020: [Analysis of Temperature-Dependent H/D Exchange Mass Spectrometry Experiments](https://doi.org/10.1021/acs.analchem.0c01828).
  - Zhang et al., 1993: [Determination of amide hydrogen exchange by mass spectrometry: a new tool for protein structure elucidation.](https://doi.org/10.1002/pro.5560020404).
  - Zhang et al., 2012: [Improved protein hydrogen/deuterium exchange mass spectrometry platform with fully automated data processing](https://doi.org/10.1021/ac300535r).
  - Zhang et al., 2020: [Complete Extraction of Protein Dynamics Information in Hydrogen/Deuterium Exchange Mass Spectrometry Data](https://doi.org/10.1021/acs.analchem.9b05724).
 
-
 ## Repositories
 
- - HDX Symulations:
+ - HDX Simulations:
  [Kan ZY](https://github.com/kanzy/HX-MS-Simulations), [Robert Bradshaw](https://github.com/rtb1c13/calc_hdx).
+ - HDXrate [repo](https://github.com/Jhsmit/HDXrate)
+ - H/D exchange rate excel spreadsheets [Englander group website](http://hx2.med.upenn.edu/download.html)
+
 ## Experimental aspects
 
  - Brown et al., 2017: [Bottom-up hydrogen deuterium exchange mass spectrometry: data analysis and interpretation](https://doi.org/10.1039/C7AN00662D).
  - Hamuro et al., 2020: [Tutorial: Chemistry of Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/jasms.0c00260).
  - Masson et al., 2019: [Recommendations for performing, interpreting and reporting hydrogen deuterium exchange mass spectrometry (HDX-MS) experiments](https://doi.org/10.1038/s41592-019-0459-y).
+ - Venable et al., 2012: [Subzero Temperature Chromatography for Reduced Back-Exchange and Improved Dynamic Range in Amide Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/ac302488h).
  - Wei et al., 2014: [Hydrogen/deuterium exchange mass spectrometry for probing higher order structure of protein therapeutics: methodology and applications](https://doi.org/10.1016/j.drudis.2013.07.019).
  - Walters et al., 2012: [Minimizing back exchange in the hydrogen exchange-mass spectrometry experiment](https://dx.doi.org/10.1007%2Fs13361-012-0476-x).
 
 ## General reviews
 
- - Engen et al., 2020: [Developments in Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/acs.analchem.0c04281).
+- Engen et al., 2020: [Developments in Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/acs.analchem.0c04281). 
+- Mitra et al. 2020: [Emerging Role of Mass Spectrometry-Based Structural Proteomics in Elucidating Intrinsic Disorder in Proteins](https://doi.org/10.1002/pmic.202000011).
+- Narang et al. 2020: [HDX-MS: An Analytical Tool to Capture Protein Motion in Action](https://doi.org/10.3390/biomedicines8070224).
+- Giladi et al. 2020: [Hydrogen-Deuterium Exchange Mass-Spectrometry of Secondary Active Transporters: From Structural Dynamics to Molecular Mechanisms](https://doi.org/10.3389/fphar.2020.00070).
+- Georgescauld et al. 2019: [Hydrogen deuterium exchange mass spectrometry applied to chaperones and chaperone-assisted protein folding](https://doi.org/10.1080/14789450.2019.1633920).
+- Hoofnagle et al. 2003: [Protein Analysis by Hydrogen Exchange Mass Spectrometry](https://doi.org/10.1146/annurev.biophys.32.110601.142417).
+- Konermann et al. 2011: [Hydrogen exchange mass spectrometry for studying protein structure and dynamics](https://doi.org/10.1039/C0CS00113A).
+- Englander et al. 1997: [Hydrogen exchange: the modern legacy of Linderstrøm-Lang](https://doi.org/10.1002/pro.5560060517).
+- Englander et al. 1996: [Mechanisms and uses of hydrogen exchange](https://doi.org/10.1016/S0959-440X(96)80090-X).
 
 ## Applications for HDX-MS
 
