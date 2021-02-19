@@ -42,6 +42,8 @@ Publications and software for HR HDX-MS analysis:
  - Gessner et al., 2017: [publication](https://doi.org/10.1038/s41598-017-03922-3).
  - HDsite; [publication](https://doi.org/10.1073/pnas.1315532110).
  - PyHDX; [pre-print](https://doi.org/10.1101/2020.09.30.320887); [repository](https://github.com/Jhsmit/PyHDX); [web server](http://pyhdx.jhsmit.org/main).
+ - Salmas et al., [publication](https://doi.org/10.1038/s42003-021-01709-x); [web server](https://hdxsite.nms.kcl.ac.uk/).
+ - Saltzberg et al., [publication](https://doi.org/10.1021/acs.jpcb.6b09358) [part of IMP](https://github.com/salilab/imp)
  - Skinner et al., 2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); [repository](https://github.com/skinnersp/exPfact).
 
 ## Analysis of HDX-MS data
