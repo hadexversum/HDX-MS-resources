@@ -60,6 +60,7 @@ HDX-MS data analysis methodology, focusing on HDX-MS data processing’s computa
 1. Dovischenko et al., 2008: [Prediction of Residue Status to Be Protected or Not Protected From Hy-drogen Exchange Using Amino Acid Sequence Only](https://doi.org/10.2174/1874091x00802010077).
 1. Englander et al., 1997: [Hydrogen exchange: the modern legacy of Linderstrøm-Lang.](https://doi.org/10.1002/pro.5560060517).
 1. Fajer et al, 2012: [Improved Sequence Resolution by Global Analysis of Overlapped Peptides in Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1007/s13361-012-0373-3).
+1. Hageman et al, 2018: [Reliable Identification of Significant Differences in Differential Hydrogen Exchange-Mass Spectrometry Measurements Using a Hybrid Significance Testing Approach](https://doi.org/10.1021/acs.analchem.9b01325).
 1. Harris et al, 2019: [Quantitative Evaluation of Native Protein Folds and Assemblies by Hydrogen Deuterium Exchange Mass Spectrometry (HDX-MS)](https://doi.org/10.1007/s13361-018-2070-3)   
 1. Konermann et al., 2011: [Hydrogen exchange mass spectrometry for studying protein structure and dynamics](https://doi.org/10.1039/c0cs00113a).
 1. Mazur et al., 2017: [The Area Between Exchange Curves as a Measure of Conformational Differences in Hydrogen-Deuterium Exchange Mass Spectrometry Studies](https://doi.org/10.1007/s13361-017-1615-1).  
