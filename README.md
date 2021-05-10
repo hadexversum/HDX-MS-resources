@@ -120,3 +120,6 @@ General reviews of HDX-MS experiments, not focusing on a single application, exp
 - SecYEG, SecA [Ahdash et al](https://doi.org/10.7554/eLife.47402), [link](https://www.omicsdi.org/dataset/pride/PXD013594)
 - VDR, RORγ [Saltzberg et al](https://doi.org/10.1021/acs.jpcb.6b09358), [link](https://doi.org/10.1021/acs.jpcb.6b09358.s001)
 - 15-LOX [Droege et al](https://doi.org/10.1021/acs.biochem.7b00559) [link](https://doi.org/10.1021/acs.biochem.7b00559.s002)
+- human Rag GTPase [Anandapadamanaban et al](http://doi.org/10.1126/science.aax3939) [link](https://www.ebi.ac.uk/pride/archive/projects/PXD013051)
+- Eukaryotic Ribosome GCN2 [Inglis AJ et al](http://doi.org/10.1073/pnas.1813352116) [link](https://www.ebi.ac.uk/pride/archive/projects/PXD015778)
+
