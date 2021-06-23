@@ -111,7 +111,19 @@ General reviews of HDX-MS experiments, not focusing on a single application, exp
 1. Mitra et al., 2020: [Emerging Role of Mass Spectrometry-Based Structural Proteomics in Elucidating Intrinsic Disorder in Proteins](https://doi.org/10.1002/pmic.202000011).
 1. Narang et al., 2020: [HDX-MS: An Analytical Tool to Capture Protein Motion in Action](https://doi.org/10.3390/biomedicines8070224).
 
+## HDX-MS datasets
 
-
-
+- SAP, Enolase, Barnase, Alpha_lac [Salmas et al](https://doi.org/10.1038/s42003-021-01709-x), [link](https://hdxsite.nms.kcl.ac.uk/static/Example_Modeller_.zip)
+- SecB [Smit et al](https://doi.org/10.1101/2020.09.30.320887), [link](https://raw.githubusercontent.com/Jhsmit/PyHDX/master/tests/test_data/ecSecB_apo.csv)
+- SNase [Gessner et al](https://doi.org/10.1038/s41598-017-03922-3), [link](https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-017-03922-3/MediaObjects/41598_2017_3922_MOESM2_ESM.xls)
+- Human 20S proteasomes [Lesne et al](https://doi.org/10.1038/s41467-020-19934-z), [link](https://www.omicsdi.org/dataset/pride/PXD018921)
+- Fab fragment of NISTmAb [Hudgens et al (1)](https://doi.org/10.6028/jres.124.009) [Hudgens et al (2)](https://pubs.acs.org/doi/10.1021/acs.analchem.9b01100), [link](https://data.nist.gov/od/id/76F046F18CCA46FBE05324570681CB301977)
+- XylE, LacY, GlpT [Martens et al](https://dx.doi.org/10.1038%2Fs41467-018-06704-1), [link](https://www.ebi.ac.uk/pride/archive/projects/PXD011060)
+- HalM2 [Habibi et al](https://doi.org/10.1021/jacs.9b06020), [link](https://figshare.com/articles/dataset/Insights_into_the_Dynamic_Structural_Properties_of_a_Lanthipeptide_Synthetase_using_Hydrogen_Deuterium_Exchange_Mass_Spectrometry/9778637/1)
+- Human Hb, Human IgG4 [Tsiatsiani et al](https://doi.org/10.1021/acs.analchem.7b01161), [link](https://pubs.acs.org/doi/suppl/10.1021/acs.analchem.7b01161/suppl_file/ac7b01161_si_003.xlsx)
+- SecYEG, SecA [Ahdash et al](https://doi.org/10.7554/eLife.47402), [link](https://www.omicsdi.org/dataset/pride/PXD013594)
+- VDR, RORγ [Saltzberg et al](https://doi.org/10.1021/acs.jpcb.6b09358), [link](https://doi.org/10.1021/acs.jpcb.6b09358.s001)
+- 15-LOX [Droege et al](https://doi.org/10.1021/acs.biochem.7b00559) [link](https://doi.org/10.1021/acs.biochem.7b00559.s002)
+- human Rag GTPase [Anandapadamanaban et al](http://doi.org/10.1126/science.aax3939) [link](https://www.ebi.ac.uk/pride/archive/projects/PXD013051)
+- Eukaryotic Ribosome GCN2 [Inglis AJ et al](http://doi.org/10.1073/pnas.1813352116) [link](https://www.ebi.ac.uk/pride/archive/projects/PXD015778)
 
