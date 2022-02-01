@@ -34,6 +34,7 @@ Scripts and data for HDX-MS data analysis:
  [Kan ZY](https://github.com/kanzy/HX-MS-Simulations), [Robert Bradshaw](https://github.com/rtb1c13/calc_hdx).
 1. HDXrate: [repository](https://github.com/Jhsmit/HDXrate).
 1. H/D exchange rate excel spreadsheets: [Englander group website](http://hx2.med.upenn.edu/download.html).
+1. HDXer: [repository](https://github.com/Lucy-Forrest-Lab/HDXer).
  
 ## High-resolution HDX-MS
 
