@@ -22,6 +22,8 @@ Open, free and maintained tools for analysis of HDX-MS data:
 
 Maintained commercial tools for analysis of HDX-MS data:
 
+1. BioPharma Findfer (MassAnalyzer) [link](https://www.thermofisher.com/be/en/home/industrial/mass-spectrometry/liquid-chromatography-mass-spectrometry-lc-ms/lc-ms-software/multi-omics-data-analysis/biopharma-finder-software.html)
+
 ## Deprecated tools for analysis of the HDX-MS data
 
 Non-maintained (no updates for at least five years) tools for analysis of HDX-MS data:
@@ -45,8 +47,10 @@ Publications and software for HR HDX-MS analysis:
 1. HDsite; [publication](https://doi.org/10.1073/pnas.1315532110).
 1. PyHDX; [publication](https://doi.org/10.1021/acs.analchem.1c02155); [repository](https://github.com/Jhsmit/PyHDX); [web server](http://pyhdx.jhsmit.org/main).
 1. Salmas et al., [publication](https://doi.org/10.1038/s42003-021-01709-x); [web server](https://hdxsite.nms.kcl.ac.uk/).
-1. Saltzberg et al., [publication](https://doi.org/10.1021/acs.jpcb.6b09358) [part of IMP](https://github.com/salilab/imp)
-1. Skinner et al., 2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); [repository](https://github.com/skinnersp/exPfact).
+1. Saltzberg et al., [publication](https://doi.org/10.1021/acs.jpcb.6b09358); [part of IMP](https://github.com/salilab/imp)
+1. Skinner et al.,2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); Stofella et al., 2022: [publication](https://doi.org/10.1021/jasms.2c00005); [repository](https://github.com/skinnersp/exPfact).
+1. Seetaloo et al., [publication](https://doi.org/10.1021/acs.analchem.1c05339); [download](http://hdl.handle.net/10871/127982 ) 
+
 
 ## Analysis of HDX-MS data
 
@@ -102,15 +106,17 @@ Publications and pre-prints showcasing the applications of HDX-MS, where HDX-MS 
 
 General reviews of HDX-MS experiments, not focusing on a single application, experimental problem, or computational method:
 
-1. Engen et al., 2020: [Developments in Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/acs.analchem.0c04281). 
-1. Englander et al., 1997: [Hydrogen exchange: the modern legacy of Linderstrøm-Lang](https://doi.org/10.1002/pro.5560060517).
-1. Englander et al., 1996: [Mechanisms and uses of hydrogen exchange](https://doi.org/10.1016/S0959-440X(96)80090-X).
+1. James et al., 2021: [Advances in Hydrogen/Deuterium Exchange Mass Spectrometry and the Pursuit of Challenging Biological Systems](https://doi.org/10.1021/acs.chemrev.1c00279).
+1. Engen et al., 2021: [Developments in Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/acs.analchem.0c04281). 
 1. Georgescauld et al., 2019: [Hydrogen deuterium exchange mass spectrometry applied to chaperones and chaperone-assisted protein folding](https://doi.org/10.1080/14789450.2019.1633920).
-1. Giladi et al., 2020: [Hydrogen-Deuterium Exchange Mass-Spectrometry of Secondary Active Transporters: From Structural Dynamics to Molecular Mechanisms](https://doi.org/10.3389/fphar.2020.00070).
-1. Hoofnagle et al., 2003: [Protein Analysis by Hydrogen Exchange Mass Spectrometry](https://doi.org/10.1146/annurev.biophys.32.110601.142417).
-1. Konermann et al., 2011: [Hydrogen exchange mass spectrometry for studying protein structure and dynamics](https://doi.org/10.1039/C0CS00113A).
 1. Mitra et al., 2020: [Emerging Role of Mass Spectrometry-Based Structural Proteomics in Elucidating Intrinsic Disorder in Proteins](https://doi.org/10.1002/pmic.202000011).
 1. Narang et al., 2020: [HDX-MS: An Analytical Tool to Capture Protein Motion in Action](https://doi.org/10.3390/biomedicines8070224).
+1. Giladi et al., 2020: [Hydrogen-Deuterium Exchange Mass-Spectrometry of Secondary Active Transporters: From Structural Dynamics to Molecular Mechanisms](https://doi.org/10.3389/fphar.2020.00070).
+1. Konermann et al., 2011: [Hydrogen exchange mass spectrometry for studying protein structure and dynamics](https://doi.org/10.1039/C0CS00113A).
+1. Hoofnagle et al., 2003: [Protein Analysis by Hydrogen Exchange Mass Spectrometry](https://doi.org/10.1146/annurev.biophys.32.110601.142417).
+1. Englander et al., 1997: [Hydrogen exchange: the modern legacy of Linderstrøm-Lang](https://doi.org/10.1002/pro.5560060517).
+1. Englander et al., 1996: [Mechanisms and uses of hydrogen exchange](https://doi.org/10.1016/S0959-440X(96)80090-X).
+
 
 ## HDX-MS datasets
 
