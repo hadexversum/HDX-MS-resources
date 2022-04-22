@@ -22,6 +22,8 @@ Open, free and maintained tools for analysis of HDX-MS data:
 
 Maintained commercial tools for analysis of HDX-MS data:
 
+1. BioPharma Findfer (MassAnalyzer) [link](https://www.thermofisher.com/be/en/home/industrial/mass-spectrometry/liquid-chromatography-mass-spectrometry-lc-ms/lc-ms-software/multi-omics-data-analysis/biopharma-finder-software.html)
+
 ## Deprecated tools for analysis of the HDX-MS data
 
 Non-maintained (no updates for at least five years) tools for analysis of HDX-MS data:
