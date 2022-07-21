@@ -83,10 +83,12 @@ The methodology of HDX-MS and advances in HDX-MS experiments design:
 
 1. Brown et al., 2017: [Bottom-up hydrogen deuterium exchange mass spectrometry: data analysis and interpretation](https://doi.org/10.1039/C7AN00662D).
 1. Hamuro et al., 2020: [Tutorial: Chemistry of Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/jasms.0c00260).
+1. Lauer et al., 2021: [Profiling Structural Alterations During Rab5 Nucleotide Exchange by HDX-MS](https://doi.org/10.1007/978-1-0716-1346-7_6).
 1. Masson et al., 2019: [Recommendations for performing, interpreting and reporting hydrogen deuterium exchange mass spectrometry (HDX-MS) experiments](https://doi.org/10.1038/s41592-019-0459-y).
 1. Venable et al., 2012: [Subzero Temperature Chromatography for Reduced Back-Exchange and Improved Dynamic Range in Amide Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/ac302488h).
 1. Wei et al., 2014: [Hydrogen/deuterium exchange mass spectrometry for probing higher order structure of protein therapeutics: methodology and applications](https://doi.org/10.1016/j.drudis.2013.07.019).
 1. Walters et al., 2012: [Minimizing back exchange in the hydrogen exchange-mass spectrometry experiment](https://dx.doi.org/10.1007%2Fs13361-012-0476-x).
+1. Wu et al., 2021: [Domain-specific biochemical and serological characterization of SARS-CoV-2 nucleocapsid protein](https://doi-org.are.uab.cat/10.1016/j.xpro.2021.100906).
 
 ## Applications of HDX-MS
 
@@ -106,7 +108,7 @@ Publications and pre-prints showcasing the applications of HDX-MS, where HDX-MS 
 
 General reviews of HDX-MS experiments, not focusing on a single application, experimental problem, or computational method:
 
-1. Lauer et al., 2021: [Profiling Structural Alterations During Rab5 Nucleotide Exchange by HDX-MS](https://doi.org/10.1007/978-1-0716-1346-7_6).
+
 1. James et al., 2021: [Advances in Hydrogen/Deuterium Exchange Mass Spectrometry and the Pursuit of Challenging Biological Systems](https://doi.org/10.1021/acs.chemrev.1c00279).
 1. Engen et al., 2021: [Developments in Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/acs.analchem.0c04281). 
 1. Georgescauld et al., 2019: [Hydrogen deuterium exchange mass spectrometry applied to chaperones and chaperone-assisted protein folding](https://doi.org/10.1080/14789450.2019.1633920).
