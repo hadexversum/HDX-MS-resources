@@ -106,6 +106,7 @@ Publications and pre-prints showcasing the applications of HDX-MS, where HDX-MS 
 
 General reviews of HDX-MS experiments, not focusing on a single application, experimental problem, or computational method:
 
+1. Lauer et al., 2021: [Profiling Structural Alterations During Rab5 Nucleotide Exchange by HDX-MS](https://doi.org/10.1007/978-1-0716-1346-7_6).
 1. James et al., 2021: [Advances in Hydrogen/Deuterium Exchange Mass Spectrometry and the Pursuit of Challenging Biological Systems](https://doi.org/10.1021/acs.chemrev.1c00279).
 1. Engen et al., 2021: [Developments in Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/acs.analchem.0c04281). 
 1. Georgescauld et al., 2019: [Hydrogen deuterium exchange mass spectrometry applied to chaperones and chaperone-assisted protein folding](https://doi.org/10.1080/14789450.2019.1633920).
