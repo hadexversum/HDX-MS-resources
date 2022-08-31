@@ -82,6 +82,7 @@ HDX-MS data analysis methodology, focusing on HDX-MS data processing’s computa
 The methodology of HDX-MS and advances in HDX-MS experiments design:
 
 1. Brown et al., 2017: [Bottom-up hydrogen deuterium exchange mass spectrometry: data analysis and interpretation](https://doi.org/10.1039/C7AN00662D).
+1. Engen et al., 2022: [Simple and Fast Maximally Deuterated Control (maxD) Preparation for Hydrogen–Deuterium Exchange Mass Spectrometry Experiments](https://doi.org/10.1021/acs.analchem.2c01446).
 1. Hamuro et al., 2020: [Tutorial: Chemistry of Hydrogen/Deuterium Exchange Mass Spectrometry](https://doi.org/10.1021/jasms.0c00260).
 1. Lauer et al., 2021: [Profiling Structural Alterations During Rab5 Nucleotide Exchange by HDX-MS](https://doi.org/10.1007/978-1-0716-1346-7_6).
 1. Masson et al., 2019: [Recommendations for performing, interpreting and reporting hydrogen deuterium exchange mass spectrometry (HDX-MS) experiments](https://doi.org/10.1038/s41592-019-0459-y).
