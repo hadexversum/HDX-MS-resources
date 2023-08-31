@@ -17,6 +17,7 @@ Open, free and maintained tools for analysis of HDX-MS data:
 1. HX-Express v2: [publication](https://dx.doi.org/10.1007%2Fs13361-013-0727-5); [availability](https://www.hxms.com/HXExpress/).
 1. MEMHDX: [publication](https://doi.org/10.1093/bioinformatics/btw420); [web server](http://memhdx.c3bi.pasteur.fr/).
 1. QUDeX-MS [publication](https://doi.org/10.1186/s12859-014-0403-1); [stand-alone tool](https://sourceforge.net/projects/qudex-ms/).
+1. The Deuterium Calculator [publication](https://doi.org/10.1021/acs.jproteome.2c00558); [repository](https://github.com/OUWuLab/TheDeuteriumCalculator).
 
 ## Commercial software for analysis of the HDX-MS data
 
@@ -44,12 +45,12 @@ Publications and software for HR HDX-MS analysis:
 
 1. Babic et al., 2019: [publication](https://doi.org/10.1002/rcm.8460). Follow-up to HDSite.
 1. Gessner et al., 2017: [publication](https://doi.org/10.1038/s41598-017-03922-3).
-1. HDsite; [publication](https://doi.org/10.1073/pnas.1315532110).
+1. Kan et al., 2013, (HDsite): [publication](https://doi.org/10.1073/pnas.1315532110).
 1. PyHDX; [publication](https://doi.org/10.1021/acs.analchem.1c02155); [repository](https://github.com/Jhsmit/PyHDX); [web server](http://pyhdx.jhsmit.org/main).
-1. Salmas et al., [publication](https://doi.org/10.1038/s42003-021-01709-x); [web server](https://hdxsite.nms.kcl.ac.uk/).
+1. Salmas et al. (HDXmodeller): [publication](https://doi.org/10.1038/s42003-021-01709-x); [web server](https://hdxsite.nms.kcl.ac.uk/).
 1. Saltzberg et al., [publication](https://doi.org/10.1021/acs.jpcb.6b09358); [part of IMP](https://github.com/salilab/imp)
-1. Skinner et al.,2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); Stofella et al., 2022: [publication](https://doi.org/10.1021/jasms.2c00005); [repository](https://github.com/skinnersp/exPfact).
-1. Seetaloo et al., [publication](https://doi.org/10.1021/acs.analchem.1c05339); [download](http://hdl.handle.net/10871/127982 ) 
+1. Skinner et al., 2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); Stofella et al., 2022: [publication](https://doi.org/10.1021/jasms.2c00005); [repository](https://github.com/skinnersp/exPfact).
+1. Seetaloo et al, 2022, (HDfleX): [publication](https://doi.org/10.1021/acs.analchem.1c05339); [download](http://hdl.handle.net/10871/127982 ) 
 
 
 ## Analysis of HDX-MS data
