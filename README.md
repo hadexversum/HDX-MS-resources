@@ -15,6 +15,7 @@ Open, free and maintained tools for analysis of HDX-MS data:
 1. Hexicon 2: [publication](https://dx.doi.org/10.1007%2Fs13361-014-0850-y); access on request.
 1. HD-eXplosion: [publication](https://doi.org/10.1093/bioinformatics/btaa892); [web-server](http://hd-explosion.utdallas.edu/); [repository](https://github.com/HD-Explosion).
 1. HX-Express v2: [publication](https://dx.doi.org/10.1007%2Fs13361-013-0727-5); [availability](https://www.hxms.com/HXExpress/).
+2. Kingfisher: [publication](https://doi.org/10.1002/pro.70096);  [web-server](https://kingfisher.wustl.edu/)
 1. MEMHDX: [publication](https://doi.org/10.1093/bioinformatics/btw420); [web server](http://memhdx.c3bi.pasteur.fr/).
 1. QUDeX-MS [publication](https://doi.org/10.1186/s12859-014-0403-1); [stand-alone tool](https://sourceforge.net/projects/qudex-ms/).
 1. The Deuterium Calculator [publication](https://doi.org/10.1021/acs.jproteome.2c00558); [repository](https://github.com/OUWuLab/TheDeuteriumCalculator).
