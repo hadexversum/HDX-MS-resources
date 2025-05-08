@@ -12,6 +12,8 @@ Open, free and maintained tools for analysis of HDX-MS data:
 1. HaDeX: [publication](https://doi.org/10.1093/bioinformatics/btaa587); [repository](https://github.com/hadexversum/HaDeX), [web server](https://hadex.mslab-ibb.pl/).
 1. HDXanalyzer [publication](https://doi.org/10.1186/1471-2105-12-S1-S43); RPY package.
 1. HDX-Viewer: [publication](https://doi.org/10.1093/bioinformatics/btz550); [web-server](https://masstools.ipbs.fr/hdx-viewer); [repository](https://github.com/david-bouyssie/hdx-viewer).
+1. HDXBoxeR [publication](https://doi.org/10.1093/bioinformatics/btae479); [repository](https://github.com/mkajano/HDXBoxeR).
+1. HDgraphiX [publication](https://doi.org/10.1021/jasms.5c00005); [web server](https://hdgraphix.net/).
 1. Hexicon 2: [publication](https://dx.doi.org/10.1007%2Fs13361-014-0850-y); access on request.
 1. HD-eXplosion: [publication](https://doi.org/10.1093/bioinformatics/btaa892); [web-server](http://hd-explosion.utdallas.edu/); [repository](https://github.com/HD-Explosion).
 1. HX-Express v2: [publication](https://dx.doi.org/10.1007%2Fs13361-013-0727-5); [availability](https://www.hxms.com/HXExpress/).
@@ -47,6 +49,8 @@ Publications and software for HR HDX-MS analysis:
 1. Babic et al., 2019: [publication](https://doi.org/10.1002/rcm.8460). Follow-up to HDSite.
 1. Gessner et al., 2017: [publication](https://doi.org/10.1038/s41598-017-03922-3).
 1. Kan et al., 2013, (HDsite): [publication](https://doi.org/10.1073/pnas.1315532110).
+1. HRaDeX; [publication](https://doi.org/10.1021/acs.jproteome.4c00700); [web server](https://hradex.mslab-ibb.pl/); [repository](https://github.com/hadexversum/HRaDeX).
+1. PIGEON-FEATHER; [publication](https://doi.org/10.1101/2024.08.04.606547); [repository](https://github.com/glasgowlab/PIGEON-FEATHER).
 1. Smit et al., 2021, (PyHDX): [publication](https://doi.org/10.1021/acs.analchem.1c02155); [repository](https://github.com/Jhsmit/PyHDX); [web server](http://pyhdx.jhsmit.org/main).
 1. Salmas et al., 2021, (HDXmodeller): [publication](https://doi.org/10.1038/s42003-021-01709-x); [web server](https://hdxsite.nms.kcl.ac.uk/).
 1. Saltzberg et al., 2017: [publication](https://doi.org/10.1021/acs.jpcb.6b09358); [part of IMP](https://github.com/salilab/imp)
