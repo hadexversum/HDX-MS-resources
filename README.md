@@ -22,8 +22,8 @@ Open, free and maintained tools for analysis of HDX-MS data:
 1. QUDeX-MS [publication](https://doi.org/10.1186/s12859-014-0403-1); [stand-alone tool](https://sourceforge.net/projects/qudex-ms/).
 1. The Deuterium Calculator [publication](https://doi.org/10.1021/acs.jproteome.2c00558); [repository](https://github.com/OUWuLab/TheDeuteriumCalculator).
 1. PIGEON-FEATHER: [publication](https://doi.org/10.1038/s41589-025-02049-1); [repository](https://github.com/glasgowlab/PIGEON-FEATHER).
-1. PFLink: [publication](https://doi.org/10.1101/2025.10.14.682397); [repository](https://huggingface.co/spaces/glasgow-lab/PFLink).
-1. PFNet: [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet).
+1. PFLink: [publication](https://doi.org/10.1101/2025.10.14.682397); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFLink).
+1. PFNet: [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFNet).
 
 ## Commercial software for analysis of the HDX-MS data
 
@@ -59,7 +59,7 @@ Publications and software for HR HDX-MS analysis:
 5. Skinner et al., 2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); Stofella et al., 2022: [publication](https://doi.org/10.1021/jasms.2c00005); [repository](https://github.com/skinnersp/exPfact).
 6. Seetaloo et al, 2022, (HDfleX): [publication](https://doi.org/10.1021/acs.analchem.1c05339); [download](http://hdl.handle.net/10871/127982 ) 
 7. Lu et al., 2025, (FEATHER): [publication](https://doi.org/10.1038/s41589-025-02049-1); [repository](https://github.com/glasgowlab/PIGEON-FEATHER).
-8. Lu et al., 2025, (PFNet) [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet).
+8. Lu et al., 2025, (PFNet) [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFNet).
 
 
 ## Analysis of HDX-MS data
@@ -86,7 +86,7 @@ HDX-MS data analysis methodology, focusing on HDX-MS data processing’s computa
 1. Zhang et al., 1993: [Determination of amide hydrogen exchange by mass spectrometry: a new tool for protein structure elucidation.](https://doi.org/10.1002/pro.5560020404).
 1. Zhang et al., 2012: [Improved protein hydrogen/deuterium exchange mass spectrometry platform with fully automated data processing](https://doi.org/10.1021/ac300535r).
 1. Zhang et al., 2020: [Complete Extraction of Protein Dynamics Information in Hydrogen/Deuterium Exchange Mass Spectrometry Data](https://doi.org/10.1021/acs.analchem.9b05724).
-1. Lu et al., 2025: [PIGEON enables accurate peptide identification for HX-MS dataset](https://doi.org/10.1038/s41589-025-02049-1).
+1. Lu et al., 2025: [PIGEON: peptide disambiguation for HX-MS dataset](https://doi.org/10.1038/s41589-025-02049-1).
 
 ## Design of HDX-MS experiments
 
