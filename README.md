@@ -53,13 +53,13 @@ Publications and software for HR HDX-MS analysis:
 1. Gessner et al., 2017: [publication](https://doi.org/10.1038/s41598-017-03922-3).
 1. Kan et al., 2013, (HDsite): [publication](https://doi.org/10.1073/pnas.1315532110).
 1. HRaDeX; [publication](https://doi.org/10.1021/acs.jproteome.4c00700); [web server](https://hradex.mslab-ibb.pl/); [repository](https://github.com/hadexversum/HRaDeX).
-2. Smit et al., 2021, (PyHDX): [publication](https://doi.org/10.1021/acs.analchem.1c02155); [repository](https://github.com/Jhsmit/PyHDX); [web server](http://pyhdx.jhsmit.org/main).
-3. Salmas et al., 2021, (HDXmodeller): [publication](https://doi.org/10.1038/s42003-021-01709-x); [web server](https://hdxsite.nms.kcl.ac.uk/).
-4. Saltzberg et al., 2017: [publication](https://doi.org/10.1021/acs.jpcb.6b09358); [part of IMP](https://github.com/salilab/imp)
-5. Skinner et al., 2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); Stofella et al., 2022: [publication](https://doi.org/10.1021/jasms.2c00005); [repository](https://github.com/skinnersp/exPfact).
-6. Seetaloo et al, 2022, (HDfleX): [publication](https://doi.org/10.1021/acs.analchem.1c05339); [download](http://hdl.handle.net/10871/127982 ) 
-7. Lu et al., 2025, (FEATHER): [publication](https://doi.org/10.1038/s41589-025-02049-1); [repository](https://github.com/glasgowlab/PIGEON-FEATHER).
-8. Lu et al., 2025, (PFNet) [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFNet).
+1. Smit et al., 2021, (PyHDX): [publication](https://doi.org/10.1021/acs.analchem.1c02155); [repository](https://github.com/Jhsmit/PyHDX); [web server](http://pyhdx.jhsmit.org/main).
+1. Salmas et al., 2021, (HDXmodeller): [publication](https://doi.org/10.1038/s42003-021-01709-x); [web server](https://hdxsite.nms.kcl.ac.uk/).
+1. Saltzberg et al., 2017: [publication](https://doi.org/10.1021/acs.jpcb.6b09358); [part of IMP](https://github.com/salilab/imp)
+1. Skinner et al., 2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); Stofella et al., 2022: [publication](https://doi.org/10.1021/jasms.2c00005); [repository](https://github.com/skinnersp/exPfact).
+1. Seetaloo et al, 2022, (HDfleX): [publication](https://doi.org/10.1021/acs.analchem.1c05339); [download](http://hdl.handle.net/10871/127982 ) 
+1. Lu et al., 2025, (FEATHER): [publication](https://doi.org/10.1038/s41589-025-02049-1); [repository](https://github.com/glasgowlab/PIGEON-FEATHER).
+1. Lu et al., 2025, (PFNet) [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFNet).
 
 
 ## Analysis of HDX-MS data
