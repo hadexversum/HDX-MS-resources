@@ -9,18 +9,18 @@ Open, free and maintained tools for analysis of HDX-MS data:
 1. Deuteros 2.0: [publication](https://doi.org/10.1093/bioinformatics/btaa677); [repository](https://github.com/andymlau/Deuteros_2.0). Version 1.0: [publication](https://doi.org/10.1093/bioinformatics/btz022); [repository](https://github.com/andymlau/Deuteros).
 1. ExMS2: [publication](https://doi.org/10.1021/acs.analchem.9b01682); MATLAB package.
  EXMS: [publication](https://doi.org/10.1007/s13361-011-0236-3); MATLAB package.
-1. HaDeX: [publication](https://doi.org/10.1093/bioinformatics/btaa587); [repository](https://github.com/hadexversum/HaDeX), [web server](https://hadex.mslab-ibb.pl/).
-1. HDXanalyzer [publication](https://doi.org/10.1186/1471-2105-12-S1-S43); RPY package.
+1. HaDeX: [publication](https://doi.org/10.1093/bioinformatics/btaa587); [repository](https://github.com/hadexversum/HaDeX); [web server](https://hadex.mslab-ibb.pl/).
+1. HDXanalyzer: [publication](https://doi.org/10.1186/1471-2105-12-S1-S43); RPY package.
 1. HDX-Viewer: [publication](https://doi.org/10.1093/bioinformatics/btz550); [web-server](https://masstools.ipbs.fr/hdx-viewer); [repository](https://github.com/david-bouyssie/hdx-viewer).
-1. HDXBoxeR [publication](https://doi.org/10.1093/bioinformatics/btae479); [repository](https://github.com/mkajano/HDXBoxeR).
-1. HDgraphiX [publication](https://doi.org/10.1021/jasms.5c00005); [web server](https://hdgraphix.net/).
+1. HDXBoxeR: [publication](https://doi.org/10.1093/bioinformatics/btae479); [repository](https://github.com/mkajano/HDXBoxeR).
+1. HDgraphiX: [publication](https://doi.org/10.1021/jasms.5c00005); [web server](https://hdgraphix.net/).
 1. Hexicon 2: [publication](https://dx.doi.org/10.1007%2Fs13361-014-0850-y); access on request.
 1. HD-eXplosion: [publication](https://doi.org/10.1093/bioinformatics/btaa892); [web-server](http://hd-explosion.utdallas.edu/); [repository](https://github.com/HD-Explosion).
 1. HX-Express v2: [publication](https://dx.doi.org/10.1007%2Fs13361-013-0727-5); [availability](https://www.hxms.com/HXExpress/).
 2. Kingfisher: [publication](https://doi.org/10.1002/pro.70096);  [web-server](https://kingfisher.wustl.edu/)
 1. MEMHDX: [publication](https://doi.org/10.1093/bioinformatics/btw420); [web server](http://memhdx.c3bi.pasteur.fr/).
-1. QUDeX-MS [publication](https://doi.org/10.1186/s12859-014-0403-1); [stand-alone tool](https://sourceforge.net/projects/qudex-ms/).
-1. The Deuterium Calculator [publication](https://doi.org/10.1021/acs.jproteome.2c00558); [repository](https://github.com/OUWuLab/TheDeuteriumCalculator).
+1. QUDeX-MS: [publication](https://doi.org/10.1186/s12859-014-0403-1); [stand-alone tool](https://sourceforge.net/projects/qudex-ms/).
+1. The Deuterium Calculator: [publication](https://doi.org/10.1021/acs.jproteome.2c00558); [repository](https://github.com/OUWuLab/TheDeuteriumCalculator).
 1. PIGEON-FEATHER: [publication](https://doi.org/10.1038/s41589-025-02049-1); [repository](https://github.com/glasgowlab/PIGEON-FEATHER).
 1. PFLink: [publication](https://doi.org/10.1101/2025.10.14.682397); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFLink).
 1. PFNet: [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFNet).
@@ -52,14 +52,14 @@ Publications and software for HR HDX-MS analysis:
 1. Babic et al., 2019: [publication](https://doi.org/10.1002/rcm.8460). Follow-up to HDSite.
 1. Gessner et al., 2017: [publication](https://doi.org/10.1038/s41598-017-03922-3).
 1. Kan et al., 2013, (HDsite): [publication](https://doi.org/10.1073/pnas.1315532110).
-1. HRaDeX; [publication](https://doi.org/10.1021/acs.jproteome.4c00700); [web server](https://hradex.mslab-ibb.pl/); [repository](https://github.com/hadexversum/HRaDeX).
+1. Puchala et al., 2025, (HRaDeX): [publication](https://doi.org/10.1021/acs.jproteome.4c00700); [web server](https://hradex.mslab-ibb.pl/); [repository](https://github.com/hadexversum/HRaDeX).
 1. Smit et al., 2021, (PyHDX): [publication](https://doi.org/10.1021/acs.analchem.1c02155); [repository](https://github.com/Jhsmit/PyHDX); [web server](http://pyhdx.jhsmit.org/main).
 1. Salmas et al., 2021, (HDXmodeller): [publication](https://doi.org/10.1038/s42003-021-01709-x); [web server](https://hdxsite.nms.kcl.ac.uk/).
 1. Saltzberg et al., 2017: [publication](https://doi.org/10.1021/acs.jpcb.6b09358); [part of IMP](https://github.com/salilab/imp)
 1. Skinner et al., 2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); Stofella et al., 2022: [publication](https://doi.org/10.1021/jasms.2c00005); [repository](https://github.com/skinnersp/exPfact).
-1. Seetaloo et al, 2022, (HDfleX): [publication](https://doi.org/10.1021/acs.analchem.1c05339); [download](http://hdl.handle.net/10871/127982 ) 
+1. Seetaloo et al., 2022, (HDfleX): [publication](https://doi.org/10.1021/acs.analchem.1c05339); [download](http://hdl.handle.net/10871/127982 ) 
 1. Lu et al., 2025, (FEATHER): [publication](https://doi.org/10.1038/s41589-025-02049-1); [repository](https://github.com/glasgowlab/PIGEON-FEATHER).
-1. Lu et al., 2025, (PFNet) [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFNet).
+1. Lu et al., 2025, (PFNet): [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFNet).
 
 
 ## Analysis of HDX-MS data
