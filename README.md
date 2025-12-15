@@ -21,6 +21,9 @@ Open, free and maintained tools for analysis of HDX-MS data:
 1. MEMHDX: [publication](https://doi.org/10.1093/bioinformatics/btw420); [web server](http://memhdx.c3bi.pasteur.fr/).
 1. QUDeX-MS [publication](https://doi.org/10.1186/s12859-014-0403-1); [stand-alone tool](https://sourceforge.net/projects/qudex-ms/).
 1. The Deuterium Calculator [publication](https://doi.org/10.1021/acs.jproteome.2c00558); [repository](https://github.com/OUWuLab/TheDeuteriumCalculator).
+1. PIGEON-FEATHER: [publication](https://doi.org/10.1038/s41589-025-02049-1); [repository](https://github.com/glasgowlab/PIGEON-FEATHER).
+1. PFLink: [publication](https://doi.org/10.1101/2025.10.14.682397); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFLink).
+1. PFNet: [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFNet).
 
 ## Commercial software for analysis of the HDX-MS data
 
@@ -50,12 +53,13 @@ Publications and software for HR HDX-MS analysis:
 1. Gessner et al., 2017: [publication](https://doi.org/10.1038/s41598-017-03922-3).
 1. Kan et al., 2013, (HDsite): [publication](https://doi.org/10.1073/pnas.1315532110).
 1. HRaDeX; [publication](https://doi.org/10.1021/acs.jproteome.4c00700); [web server](https://hradex.mslab-ibb.pl/); [repository](https://github.com/hadexversum/HRaDeX).
-1. PIGEON-FEATHER; [publication](https://doi.org/10.1101/2024.08.04.606547); [repository](https://github.com/glasgowlab/PIGEON-FEATHER).
 1. Smit et al., 2021, (PyHDX): [publication](https://doi.org/10.1021/acs.analchem.1c02155); [repository](https://github.com/Jhsmit/PyHDX); [web server](http://pyhdx.jhsmit.org/main).
 1. Salmas et al., 2021, (HDXmodeller): [publication](https://doi.org/10.1038/s42003-021-01709-x); [web server](https://hdxsite.nms.kcl.ac.uk/).
 1. Saltzberg et al., 2017: [publication](https://doi.org/10.1021/acs.jpcb.6b09358); [part of IMP](https://github.com/salilab/imp)
 1. Skinner et al., 2019: [publication](https://doi.org/10.1016/j.bpj.2019.02.024); Stofella et al., 2022: [publication](https://doi.org/10.1021/jasms.2c00005); [repository](https://github.com/skinnersp/exPfact).
 1. Seetaloo et al, 2022, (HDfleX): [publication](https://doi.org/10.1021/acs.analchem.1c05339); [download](http://hdl.handle.net/10871/127982 ) 
+1. Lu et al., 2025, (FEATHER): [publication](https://doi.org/10.1038/s41589-025-02049-1); [repository](https://github.com/glasgowlab/PIGEON-FEATHER).
+1. Lu et al., 2025, (PFNet) [publication](https://doi.org/10.1101/2025.10.21.683809); [repository](https://github.com/glasgowlab/PFNet); [huggingface](https://huggingface.co/spaces/glasgow-lab/PFNet).
 
 
 ## Analysis of HDX-MS data
@@ -82,6 +86,7 @@ HDX-MS data analysis methodology, focusing on HDX-MS data processing’s computa
 1. Zhang et al., 1993: [Determination of amide hydrogen exchange by mass spectrometry: a new tool for protein structure elucidation.](https://doi.org/10.1002/pro.5560020404).
 1. Zhang et al., 2012: [Improved protein hydrogen/deuterium exchange mass spectrometry platform with fully automated data processing](https://doi.org/10.1021/ac300535r).
 1. Zhang et al., 2020: [Complete Extraction of Protein Dynamics Information in Hydrogen/Deuterium Exchange Mass Spectrometry Data](https://doi.org/10.1021/acs.analchem.9b05724).
+1. Lu et al., 2025: [PIGEON: peptide disambiguation for HX-MS dataset](https://doi.org/10.1038/s41589-025-02049-1).
 
 ## Design of HDX-MS experiments
 
@@ -143,4 +148,5 @@ General reviews of HDX-MS experiments, not focusing on a single application, exp
 - 15-LOX [Droege et al](https://doi.org/10.1021/acs.biochem.7b00559) [link](https://doi.org/10.1021/acs.biochem.7b00559.s002)
 - human Rag GTPase [Anandapadamanaban et al](http://doi.org/10.1126/science.aax3939) [link](https://www.ebi.ac.uk/pride/archive/projects/PXD013051)
 - Eukaryotic Ribosome GCN2 [Inglis AJ et al](http://doi.org/10.1073/pnas.1813352116) [link](https://www.ebi.ac.uk/pride/archive/projects/PXD015778)
+- *E. coli*/human dihydrofolate reductase, LacI [Lu et al]((https://doi.org/10.1038/s41589-025-02049-1)), [link](https://www.ebi.ac.uk/pride/archive/projects/PXD057539)
 
